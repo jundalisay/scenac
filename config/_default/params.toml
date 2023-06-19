@@ -98,18 +98,24 @@ newsletter_button = "Send"
 [[social]]
 title = "website"
 icon = "fas fa-globe-asia" # fontawesome icon pack : https://fontawesome.com/icons/
-link = "https://www.pantrypoints.com/trisactions/circle/"
+link = "https://www.scenac.org"
 
 
 [[social]]
 title = "facebook"
 icon = "fab fa-facebook" # themify icon : https://themify.me/themify-icons
-link = "https://www.facebook.com/pantrypoints"
+link = "https://www.facebook.com/scenacph"
 
 [[social]]
 title = "twitter"
 icon = "fab fa-twitter" # themify icon : https://themify.me/themify-icons
-link = "https://twitter.com/pantrypoints"
+link = "https://twitter.com/scenacph"
+
+
+[[social]]
+title = "youtube"
+icon = "fab fa-youtube" # themify icon : https://themify.me/themify-icons
+link = "https://www.youtube.com/@scenac"
 
 # [[social]]
 # title = "github"
