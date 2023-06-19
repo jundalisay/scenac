@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "https://scenac.org/"
+baseURL = "https://www.scenac.org/"
 title = "SCENAC"
 theme = "geeky-hugo"
 languageName = "En"

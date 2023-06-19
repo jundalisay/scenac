@@ -1,5 +1,5 @@
 #################### default parameters ################################
-favicon = "logos/c.png"
+favicon = "icons/main.png"
 logo = "icons/main.png"
 # use `x` with logo_width, example: "100x".
 # Note: logo_width is not work with .svg file
@@ -9,7 +9,7 @@ logo_text = "SCENAC"
 navbar_fixed = false
 description = "SCENAC is a Senior Citizens' Organization"
 # author = "Themefisher"
-image = "logos/circle.png" # this image will be used as fallback if a page has no image of its own
+image = "icons/main.png" # this image will be used as fallback if a page has no image of its own
 # address = ""
 # mobile = ""
 email = "hello@scenac.org"
@@ -55,10 +55,10 @@ title_large = "Let's Help Senior Citizens!"
 title_small = ""
 image = "images/banner.png"
 background_image = "/images/banner-bg-shape.svg"
-content = "or donate to a charity."
-button_label = "Check Out"
+# content = "or donate to a charity."
+button_label = "Register"
 button_link = "https://hub.pantrypoints.com/signup"
-button_label2 = "Join or Donate"
+button_label2 = "Donate or Send a Message"
 button_link2 = "/contact/"
 
 # Advertise
