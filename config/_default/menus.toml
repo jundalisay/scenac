@@ -55,6 +55,11 @@ weight = 3
   url = "/medical/"
   weight = 32
 
+  [[main]]
+  parent = "Activities"
+  name = "Others"
+  url = "/others/"
+  weight = 33
 
 
 # footer menu
