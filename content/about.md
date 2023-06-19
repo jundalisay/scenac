@@ -17,13 +17,13 @@ people:
   - name: "Sergio"
     ava: "avatars/sergio.jpg"  
     content: "Sergio handles events"    
-  - name: "Juan"
-    ava: "avatars/jun.jpg"
-    content: "Juan is the founder of Pantrypoints"
   - name: "Manuel"
     ava: "avatars/blankavatar.png"  
     content: "Manuel supports the team"
-
+  - name: "Juan"
+    ava: "avatars/jun.jpg"
+    content: "Juan is the founder of Pantrypoints"
+    
 # experience
 experience:
   enable: true

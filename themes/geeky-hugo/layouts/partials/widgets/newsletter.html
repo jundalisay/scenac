@@ -12,6 +12,7 @@
       <div class="input-group">
         <input type="text" name="email[email]" class="form-control" placeholder="{{ site.Params.subscription.newsletter_placeholder }}" id="inputEmail4" required><i class="fas fa-envelope"></i>
       </div>
+      <input name="email[address]" id="source" type="hidden" value="{{ .Permalink }}">                             
     </div>
     <div class="col-12">
       <div class="cf-turnstile" data-sitekey="0x4AAAAAAACa3Ug1vfEvSNut" data-theme="light"></div>
