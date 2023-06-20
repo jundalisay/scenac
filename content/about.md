@@ -3,7 +3,7 @@ title: "About SCENAC"
 description: "SCENAC is a circular economy system of Pantrypoints"
 image: "banners/yoga.jpg"
 layout: "about"
-link: "https://www.superphysics.org"
+link: "https://play.google.com/store/apps/details?id=com.pantrypoints.diet&pli=1"
 ad: "/banners/dd.png"
 
 

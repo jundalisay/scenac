@@ -9,7 +9,9 @@ description: We have a Diet-Disease App for common diseases
 ---
 
 
-We have a Diet-Disease App for common diseases at https://play.google.com/store/apps/details?id=com.pantrypoints.diet
+We built a Diet-Disease App for common diseases as part of the FleXPHD Challenge of the DOST and SEARCA.
+
+The app is live at https://play.google.com/store/apps/details?id=com.pantrypoints.diet
 
 
 
