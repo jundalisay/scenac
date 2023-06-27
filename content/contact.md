@@ -26,12 +26,17 @@ content_placeholder: "Hello I’m Mr ‘x’ from....."
 
 
 
-#### Address
+##### What is your address?
 
 Unit B Block 5 Lot 1 J. Hernandez Street San Antonio Valley 7 Pulang Lupa Dos Las Pinas City Metro Manila 
 
-### Telephone Numbers
+##### What is your Telephone Numbers?
 
 - 0917-701-2361 
 - 0999-691-0011
 
+##### How Can I Donate?
+
+Send GCashh to the number below:
+
+{{< image src="/graphics/gcashjose.jpg" alt="" class="img-fluid" title="Weight" webp="false" >}}
